@@ -1,7 +1,7 @@
 <?php
 
 
-$a = 'value by asidirop';
+$a = 50;
 
 
 
